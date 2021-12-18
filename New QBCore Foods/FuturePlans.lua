@@ -5,4 +5,4 @@
 -- Implement Seconday Benefits like Speed, and Strength "How To's"
 
 -- Third Set of Drinks/Foods(30 Each)
--- Implement Affects & Durations "How To's" within Foods/Drinks(Similar to High/Drunk)
+-- Implement Affects & Durations "How To's" within Foods/Drinks(Similar to being High/Drunk)
