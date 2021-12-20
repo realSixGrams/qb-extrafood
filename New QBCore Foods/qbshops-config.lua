@@ -148,3 +148,11 @@
     type = "item",
     slot = 58,
 }, 
+[59] = {
+    name = "pinklemonade",
+    price = 4,
+    amount = 50,
+    info = {},
+    type = "item",
+    slot = 59,
+},

@@ -171,6 +171,18 @@
         ["combinable"] = nil,
         ["description"] = "Straight from the Juice"
     },
+    ["pinklemonade"] = {
+        ["name"] = "pinklemonade",
+        ["label"] = "Pink Lemonade",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Straight from the Pink Juice"
+    },
     ["mtndew"] = {
         ["name"] = "mtndew",
         ["label"] = "Mountain Dew",

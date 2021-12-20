@@ -106,6 +106,14 @@ QBCore.Functions.CreateUseableItem("lemonade", function(source, item)
     end
 end)
 
+QBCore.Functions.CreateUseableItem("pinklemonade", function(source, item)
+    local src = source
+    local Player = QBCore.Functions.GetPlayer(src)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Drink", src, item.name)
+    end
+end)
+
 QBCore.Functions.CreateUseableItem("icedtea", function(source, item)
     local src = source
     local Player = QBCore.Functions.GetPlayer(src)
