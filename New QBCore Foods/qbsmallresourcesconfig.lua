@@ -24,3 +24,4 @@
 ["milk"] = math.random(35, 54), -- 7
 ["fanta"] = math.random(35, 54), -- 8
 ["drpepper"] = math.random(35, 54), -- 9
+["fruitpunch"] = math.random(35, 54), -- 10

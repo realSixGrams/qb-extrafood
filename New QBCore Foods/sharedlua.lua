@@ -231,3 +231,15 @@
         ["combinable"] = nil,
         ["description"] = "Drink of the Doctors Finest"
     },
+    ["fruitpunch"] = {
+        ["name"] = "fruitpunch",
+        ["label"] = "Fruit Punch",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Drink that Smiles Back"
+    },
