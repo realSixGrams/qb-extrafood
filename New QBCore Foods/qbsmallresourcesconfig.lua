@@ -21,3 +21,5 @@
 ["lemonade"] = math.random(35, 54), -- 4
 ["icedtea"] = math.random(35, 54), -- 5
 ["milk"] = math.random(35, 54), -- 6
+["fanta"] = math.random(35, 54), -- 7
+["drpepper"] = math.random(35, 54), -- 8

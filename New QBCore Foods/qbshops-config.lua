@@ -84,51 +84,67 @@
     slot = 10,
 },
 -- Drinks
-[11] = {
+[51] = {
     name = "icedtea",
     price = 3,
     amount = 50,
     info = {},
     type = "item",
-    slot = 11,
+    slot = 51,
 },
-[12] = {
+[52] = {
     name = "sprite",
     price = 4,
     amount = 50,
     info = {},
     type = "item",
-    slot = 12,
+    slot = 52,
 },
-[13] = {
+[53] = {
     name = "pepsi",
     price = 4,
     amount = 50,
     info = {},
     type = "item",
-    slot = 13,
+    slot = 53,
 },
-[14] = {
+[54] = {
     name = "lemonade",
     price = 3,
     amount = 50,
     info = {},
     type = "item",
-    slot = 14,
+    slot = 54,
 },
-[15] = {
+[55] = {
     name = "mtndew",
     price = 4,
     amount = 50,
     info = {},
     type = "item",
-    slot = 15,
+    slot = 55,
 }, 
-[16] = {
+[56] = {
     name = "milk",
     price = 5,
     amount = 50,
     info = {},
     type = "item",
-    slot = 16,
+    slot = 56,
+}, 
+[57] = {
+    name = "fanta",
+    price = 5,
+    amount = 50,
+    info = {},
+    type = "item",
+    slot = 57,
+}, 
+[58] = {
+    name = "drpepper",
+    price = 5,
+    amount = 50,
+    info = {},
+    type = "item",
+    slot = 58,
 }, 

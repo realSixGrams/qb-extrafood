@@ -195,3 +195,27 @@
         ["combinable"] = nil,
         ["description"] = "Drink of Cow Produce"
     },
+    ["fanta"] = {
+        ["name"] = "fanta",
+        ["label"] = "Fanta",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Drink of Orange SuperPowers"
+    },
+    ["drpepper"] = {
+        ["name"] = "drpepper",
+        ["label"] = "Dr. Pepper",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Drink of the Doctors Finest"
+    },
