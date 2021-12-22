@@ -23,9 +23,9 @@ TriggerServerEvent('hospital:server:SetArmor', math.random(5, 10))-- Will be a i
 TriggerServerEvent('hospital:server:SetArmor', 5)-- Will be a steady set(won't increase past x amount)
 
 -- Relieving Stress Event
-TriggerServerEvent('hud:Server:RelieveStress', math.random(8, 13)) -- Will change in intervals
+TriggerServerEvent('hud:server:RelieveStress', math.random(8, 13)) -- Will change in intervals
 -- OR --
-TriggerServerEvent('hud:Server:RelieveStress', 5) -- Will be a steady decrease
+TriggerServerEvent('hud:server:RelieveStress', 5) -- Will be a steady decrease
 
 -- Causing a "High" Event
 TriggerEvent("evidence:client:SetStatus", "widepupils", math.random(70, 80) -- Will have a if/or chance
